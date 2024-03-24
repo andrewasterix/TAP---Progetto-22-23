@@ -1,0 +1,2 @@
+@..\..\..\..\..\..\TAP22_23_AuctionSite\bin\Debug\net6.0\Tap22_23_AuctionSite.dll
+Server=(localdb)\mssqllocaldb;Database=TAP22_23_FRANCESCHETTI

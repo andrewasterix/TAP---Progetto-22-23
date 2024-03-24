@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TAP22_23_AuctionSite", "TAP22_23_AuctionSite\TAP22_23_AuctionSite.csproj", "{EF6FBF7C-6FDA-4C15-826A-A3038654EC18}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test_TAP22_23_AuctionSite", "Test_TAP22_23_AuctionSite\Test_TAP22_23_AuctionSite.csproj", "{8F8D1E0A-E553-4E9F-AC8F-2906F55277AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF6FBF7C-6FDA-4C15-826A-A3038654EC18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF6FBF7C-6FDA-4C15-826A-A3038654EC18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF6FBF7C-6FDA-4C15-826A-A3038654EC18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF6FBF7C-6FDA-4C15-826A-A3038654EC18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F8D1E0A-E553-4E9F-AC8F-2906F55277AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F8D1E0A-E553-4E9F-AC8F-2906F55277AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F8D1E0A-E553-4E9F-AC8F-2906F55277AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F8D1E0A-E553-4E9F-AC8F-2906F55277AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1AFA02F8-E872-491F-9D68-DCBE1A14D281}
+	EndGlobalSection
+EndGlobal
